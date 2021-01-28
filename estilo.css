@@ -1,0 +1,44 @@
+/* *{
+    color: #f00;
+}  */
+
+.tith2{
+    color: blue;
+}
+
+/* !important */
+
+/* #id= element{
+    color: blue;
+} */
+
+/* [atributo=si] {
+    size: 200px;
+} */
+
+/*
+h2 p{
+    color: red;
+} */
+
+b:hover{
+    color: red;
+}
+
+/* Metodologia BEM */
+
+
+.contact-form{
+    font-size: 10px;
+    background-color: #000;
+    width: 75vw;
+    height: 5vh;
+
+}
+.contact-form__h2{
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    line-height: 2;
+    font-weight: 800;
+
+}
